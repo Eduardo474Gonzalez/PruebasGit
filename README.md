@@ -1,2 +1,4 @@
-Teoría y Prácticas del Curso Java 
-Realizar pruebas para solucionar conflictos.
+Proyecto Java
+Explicación para conflictos.
+Realizar pruebas para solucionar los problemas.
+
