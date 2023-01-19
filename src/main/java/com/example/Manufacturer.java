@@ -9,7 +9,9 @@ public class Manufacturer {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
+    private String surname;
+    public String gerSurname;
 }
+
+
+
